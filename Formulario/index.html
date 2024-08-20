@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulario de interação</title>
+</head>
+<body>
+    <form action="agredecimento.html">
+        <h1 class="h1">Formulario de interação</h1>
+        <p>Digite o seu nome <input type="text" name="name" placeholder="Digite aqui" required></p>
+        <p>Digite o seu endereço <input type="text" name="esdereco" value="Rua e nr"> </p>
+        <p>Digite o Bairro <input type="text" name="bairro" value="Bairro"></p>
+        <p>Digite a Cidade <input type="text" name="cidade" value="Santo André"></p>
+        <p>Entre com a sua mensagem</p>
+        <input type="text" name="mensagem" placeholder="Digite até 500 caracteres" maxlength="500" id="mg">
+        <p>Esxolha o(s) modelo(s) de trabalho</p>
+        <ul style="list-style: disc;"><li><input type="checkbox" name="presencial">Presencial</li>
+            <li><input type="checkbox" name="remoto">Remotol</li>
+            <li><input type="checkbox" name="hibrido">Híbrido</li>
+        </ul>
+        <p>Escolha o período de trabalho:</p>
+        <ul style="list-style-type: disc;">
+            <li><input type="radio" name="trabalho">Manhã</li>
+            <li><input type="radio" name="trabalho">Tarde</li>
+            <li><input type="radio" name="trabalho">Noite</li>
+        </ul>
+        <p>Escolha um Estado:</p>
+        <ul>
+        <label for="opcoes"></label>
+        <select id="opcoes" name="opcoes">
+            <option value="opcao1">SP</option>
+            <option value="opcao2">Rj</option>
+            <option value="opcao3">MG</option>
+            <option value="opcao4">RS</option>
+        </select>
+        </ul>
+        <p><input type="checkbox" name="termos">Aceira os termos de uso do site</p>
+        <a href="agredecimento.html" target="_self"><input type="submit" name="enviar" value="Enviar dados"></a> <a href="index.html"><input type="reset" name="limpar" value="Límpar os campos"></a>
+    </form>
+</body>
+</html>

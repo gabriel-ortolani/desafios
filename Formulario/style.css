@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to bottom right, violet, blue);
+    height: 1000px;
+}
+h1{
+    color: blue;
+}
+.h1{
+    color: red;
+}
+#mg{
+    width: 250px;
+    padding: 100px;
+    text-align: left;
+}
