@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.topo{
+    background-color: rgba(75, 73, 74, 1);
+    width: 1270px;
+    height: 100px;
+    position: sticky;
+    top: 0px;
+}
+.logo{
+    background-image: url(assets/senai.svg);
+    height: 50px;
+    width: 150px;
+}
+.fundo{
+    background-image: url(assets/destaque.jpg);
+    width: 1270px;
+    height: 1000px;
+    position: fixed;
+}
