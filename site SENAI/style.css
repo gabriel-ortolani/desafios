@@ -2,8 +2,8 @@ body{
     margin: 0;
 }
 .topo{
-    background-color: rgba(75, 73, 74, 1);
-    width: 1270px;
+    background-color: rgba(75, 73, 74, 0.8);
+    width: 1513px;
     height: 100px;
     position: sticky;
     top: 0px;
@@ -12,10 +12,42 @@ body{
     background-image: url(assets/senai.svg);
     height: 50px;
     width: 150px;
+    margin-left: 100px;
+}
+.home{
+    position: absolute;
+    color: white;
+    margin-top: -30px;
+    margin-left: 790px;
+    font-size: 20px;
+}
+.cursos{
+    position: absolute;
+    color: white;
+    margin-top: -30px;
+    margin-left: 990px;
+    font-size: 20px;
+}
+.contatos{
+    position: absolute;
+    color: white;
+    margin-top: -30px;
+    margin-left: 1190px;
+    font-size: 20px;
+}
+.cadastre-se{
+    position: absolute;
+    color: white;
+    margin-top: -30px;
+    margin-left: 1390px;
+    background-color: red;
+    border-bottom: 0px solid;
+    border-radius:10px;
+    font-size: 20px;
 }
 .fundo{
     background-image: url(assets/destaque.jpg);
-    width: 1270px;
+    width: 1513px;
     height: 1000px;
-    position: fixed;
+    margin-top: 50px;
 }
