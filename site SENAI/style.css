@@ -68,6 +68,8 @@ a {
     z-index: 20;
 }
 .cadastre-se{
+    width: 110px;
+    height: 30px;
     position: fixed;
     color: white;
     margin-top: -70px;
