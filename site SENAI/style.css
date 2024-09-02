@@ -176,7 +176,7 @@ a:hover{
     color: white;
 }
 .programa:hover{
-    animation: cor 3s;
+    animation: cor 3s infinite;
 }
 
 
