@@ -47,7 +47,7 @@ a {
     position: fixed;
     color: white;
     margin-top: -70px;
-    margin-left: 840px;
+    margin-left: 820px;
     font-size: 20px;
     z-index: 20;
 }
@@ -55,7 +55,7 @@ a {
     position: fixed;
     color: white;
     margin-top: -70px;
-    margin-left: 940px;
+    margin-left: 920px;
     font-size: 20px;
     z-index: 20;
 }
@@ -63,7 +63,7 @@ a {
     position: fixed;
     color: white;
     margin-top: -70px;
-    margin-left: 1040px;
+    margin-left: 1020px;
     font-size: 20px;
     z-index: 20;
 }
@@ -73,7 +73,7 @@ a {
     position: fixed;
     color: white;
     margin-top: -70px;
-    margin-left: 1140px;
+    margin-left: 1120px;
     background-color: red;
     border-bottom: 0px solid;
     border-radius:10px;
