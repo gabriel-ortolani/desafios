@@ -1,7 +1,5 @@
 # 💻desafios💻
-<img align="right" height="110" 
-  src="https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif"/>
-desafios:
+
 # Desafio1:Tabela
 A tabela foi desenvolvida com html e css
 Tabela de exemplo para realização do desafio:
@@ -19,4 +17,3 @@ Essa cópia foi desenvolvida com html e css:
 
 <img aling="right" height="200" src="https://lh3.googleusercontent.com/drive-storage/AJQWtBNF-ka_ZzE9BUEC94w30yXqT405vH3lwgIe-PM1XVI0HAEHkn_OXbbSfi0NxzZLuU6Ts3W5oOazchEcz4Hhef43cZiR3nY12qKvWc6ja4SNDEA=w1837-h901"/>
 <img aling="right" height="200" src="https://lh3.googleusercontent.com/drive-storage/AJQWtBPaxA1uK_9-njw7YvRlI9XuVK8WYRx6JZFXH7-AHE6FglPzuyocZsT0bKe5cZywfRROv4GyeqPA4K6j3L5KC886cRG9YwwPiOaHLNnRzxH8vSU=w1837-h901"/>
- 
